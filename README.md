@@ -95,5 +95,5 @@ Edit the `CONFIG` dictionary in `main.py` to tune:
 ---
 
 ## Author
-**Atul Waingade**
-atulwaingade59@gmail.com
+**Saurabh Kalugade**
+sourabhkalugade479@gmail.com
